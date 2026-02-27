@@ -23,9 +23,6 @@ A real-time hand gesture based virtual drawing application using MediaPipe and O
 4. Run:
    python App.py
 
-## 📷 Demo
-(Add your screenshot here)
-
 ## 🔮 Future Improvements
 - Save drawing feature
 - Adjustable brush size
